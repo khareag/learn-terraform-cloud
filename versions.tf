@@ -1,5 +1,5 @@
 terraform {
-/*
+/* Removed the Cloud Block for VCS Driven Workflow
   cloud {
     organization = "my-learnings"
 
